@@ -7,3 +7,4 @@ Flags modificam o comportamento dos comando.
 Caminhos absolutos funcinam de qualquer lugar.
 Caminhos relativos dependem de onde você está.
 Aprendi a ler arquivos com cat, head, tail e less.
+Aprendi sobre git init, git add, git commit e git log.
