@@ -1,0 +1,9 @@
+Aula 01 - Terminal
+O terminal é uma janela direta para o sisstema operacional.
+Aprendi a navegar com o cd, pes e ls.
+Aprendi a criar pastas com mkdir e arquivos com touch.
+Aprendi a mover com mv e copiar com cp.
+Flags modificam o comportamento dos comando.
+Caminhos absolutos funcinam de qualquer lugar.
+Caminhos relativos dependem de onde você está.
+Aprendi a ler arquivos com cat, head, tail e less.
